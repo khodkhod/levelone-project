@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-div {
+    background-color: rgb(52, 52, 52);
+}
+
+a {
+    text-decoration: none !important;
+}
+
+li {
+    font-family: "Avenir Black";
+}
+
+.car-image img {
+    width: 25px;
+}
+
+.order {
+    justify-content: space-between;
+}
+
+.pp img {
+    width: 45%;
+    padding: 15px;
+    border-radius: 30px;
+    /* padding:10px 20px 0 40px; */
+}
+.carouselslide2{
+    height: 100px;
+}
+
+.first-background-image{
+    background-image: url(images/awards.jpg);
+    height: 500px;
+}
+
+.power {
+    justify-content: center;
+    align-items: center;
+}
+
+.audio {
+    align-items: center;
+    justify-content: center;
+}
+
+.cards-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px 0px 50px;
+}
+
+.card{
+    margin: 0px 30px 0px 0px;
+}
+
+.new{
+    width: 40%;
+}
+
+.arrival{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+.trusted-by{
+    background-image: url(images/banner-wide-l.jpg);
+    height:500px;
+    background-size: cover;
+}
+.why-buy h5{
+text-align: center;
+}
+.why-buy{
+    background-color: rgb(255,255,255);   
+}
+.from-oraimo{
+ padding: 100px;
+ display: flex;
+ /* background-color: rgb(245,246,246); */
+}
+.fine-lady{
+    width: 500px;
+    height: 600px;
+    border: 2px solid red;
+    margin-bottom: 20px;
+    background-image: url(images/cs-women-s.png);
+    background-size: cover;
+}
+.carlcare{
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+    background-image: url(images/cart-care-s.png);
+    background-size: cover;
+}
+.oneyear{
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+    margin-bottom: 10px;
+    background-image: url(images/1-year-warranty-s.png);
+    background-size: cover;
+}
+.free-shipping{
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+    margin-bottom: 10px;
+    background-image: url(images/free-shipping-s.png);
+    background-size: cover;
+}
+.extrapoint{
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+    background-image: url(images/point-s.png);
+    background-size: cover;
+}
+.bestprice{
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+    margin-bottom: 20px;
+    background-image: url(images/authenticity-&-best-price-s.png);
+    background-size: cover;
+}
+.o-club{
+    width: 500px;
+    height: 600px;
+    border: 2px solid red; 
+    background-image: url(images/scansnip-removebg-preview.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.firs-div{
+    padding: 10px;
+}
+.second-div{
+    padding: 10px;
+}
+.third-div{
+    padding: 10px;
+}
+.oraimo-club{
+    margin:0px 110px;
+}
+.at-oraimo{
+    margin-top: -10px;
+}
+.follow-u{
+    width: 100px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding: 12px;
+}
+.are-you{
+    font-size: 27px;
+}
+.the-slide{
+    border: 2px solid red;
+    width: 25%;
+    height: 30vh;
+    margin: 20px;
+}
+.the-newsletter{
+    text-align: center;
+}
+.the-input{
+    margin:20px 300px;
+    padding: 20px;
+    width: 40%;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.the-latest{
+text-align: center;
+}
+.follow-us{
+text-align: center;
+}
+
+.last-div-flex img{
+    width: 350px;
+    margin: 0px 50px 0px 50px;
+}
